@@ -1,4 +1,5 @@
 print("hola mundo")
 print("buenas tardes")
 print("generacion de codigo")
-print("sistema de gestion")
+print("Sistema de gestion")
+print("sistema mejorado")
